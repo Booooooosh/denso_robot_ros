@@ -1,0 +1,4 @@
+<launch>
+	<param name="robot_name" value="VS-6577-B A"/>
+	<param name="robot_joints" value="6"/>
+</launch>
