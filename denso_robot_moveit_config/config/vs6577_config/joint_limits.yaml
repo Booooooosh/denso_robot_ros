@@ -1,43 +1,43 @@
 joint_limits:
   joint_1:
     has_velocity_limits: true
-    max_velocity: 0.9817475
-    # max_velocity: 0.1963495
+    # max_velocity: 0.9817475
+    max_velocity: 0.1963495
     has_acceleration_limits: true
-    max_acceleration: 19.7335651876739
-    # max_acceleration: 3.94671
+    # max_acceleration: 19.7335651876739
+    max_acceleration: 3.94671
   joint_2:
     has_velocity_limits: true
-    max_velocity: 0.6544975
-    # max_velocity: 0.1308895
+    # max_velocity: 0.6544975
+    max_velocity: 0.1308895
     has_acceleration_limits: true
-    max_acceleration: 16.8446962097729
-    # max_acceleration: 3.36894
+    # max_acceleration: 16.8446962097729
+    max_acceleration: 3.36894
   joint_3:
     has_velocity_limits: true
-    max_velocity: 0.7145825
-    # max_velocity: 0.1429165
+    # max_velocity: 0.7145825
+    max_velocity: 0.1429165
     has_acceleration_limits: true
-    max_acceleration: 20.7088551736883
-    # max_acceleration: 4.14176
+    # max_acceleration: 20.7088551736883
+    max_acceleration: 4.14176
   joint_4:
     has_velocity_limits: true
-    max_velocity: 0.9817475
-    # max_velocity: 0.1963495
+    # max_velocity: 0.9817475
+    max_velocity: 0.1963495
     has_acceleration_limits: true
-    max_acceleration: 20.9664657712827
-    # max_acceleration: 4.14176
+    # max_acceleration: 20.9664657712827
+    max_acceleration: 4.14176
   joint_5:
     has_velocity_limits: true
-    max_velocity: 0.75542225
-    # max_velocity: 0.15108
+    # max_velocity: 0.75542225
+    max_velocity: 0.15108
     has_acceleration_limits: true
-    max_acceleration: 23.7228642589573
-    # max_acceleration: 4.74457
+    # max_acceleration: 23.7228642589573
+    max_acceleration: 4.74457
   joint_6:
     has_velocity_limits: true
-    max_velocity: 1.57079625
-    # max_velocity: 0.31415926
+    # max_velocity: 1.57079625
+    max_velocity: 0.31415926
     has_acceleration_limits: true
-    max_acceleration: 33.5103216382911
-    # max_acceleration: 6.702064
+    # max_acceleration: 33.5103216382911
+    max_acceleration: 6.702064
